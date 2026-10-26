@@ -1,0 +1,130 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.nol {
+    background-color: pink;
+}
+
+.satu{
+    background-color: pink;
+    width: 100%;
+    height: 10vh;
+}
+
+.dua {
+display: flex;
+height: 100px;
+justify-content: center;
+align-items: center;
+}
+
+.tiga {
+list-style-type: none;
+padding: 25px;
+color: black;
+margin: 5px;
+font-size: 30px;
+}
+
+.tiga:hover {
+    background-color: palevioletred;
+    transition: 0.3s ease-in-out;
+    transition-delay: 0.5ms;
+    border-radius: 100px;
+}
+
+.you {
+    color: ghostwhite;
+    text-decoration: none;
+}
+
+.me {
+    color: ghostwhite;
+    text-decoration: none;
+}
+
+.us {
+    color: ghostwhite;
+    text-decoration: none;
+}
+.empat {
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.lima {
+    width: auto;
+    height: auto;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    height: 460px;
+    box-shadow: -webkit-box-shadow: 0px 0px 20px 5px #000000; 
+    box-shadow: 0px 0px 22px 5px #000000;;
+}
+
+.lima {
+    margin-top: 150px;
+}
+
+.CLICK {
+    font-size: 24px;
+    color: ghostwhite;
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    text-shadow: text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c, 0px 0px 13px #000000;;
+}
+
+.enam {
+min-height: auto;
+background-color: pink;
+display: flex;
+justify-content: center;
+align-items: center;
+color: ghostwhite;
+}
+
+.tujuh {
+font-size: 19px;
+color-scheme:pink;
+text-align: center;
+height: auto;
+margin-top: 15px;
+}
+
+.empat {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+
+.uyy {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: ghostwhite;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.enam {
+    background-color: pink;
+    margin-top: 80px;
+    padding: 40px;
+    position: relative;
+    display: block;
+}
+
+body {
+    background-color: pink;
+}
